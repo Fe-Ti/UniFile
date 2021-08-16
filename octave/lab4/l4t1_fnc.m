@@ -1,0 +1,1 @@
+function result=l4t1_fnc(x)  result = 1 + 0.9 .* x + 0.8 .* x .^ 2 + 0.7 .* x .^ 3 + 0.5 .* x .^ 4;end
